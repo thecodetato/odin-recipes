@@ -12,6 +12,12 @@ This project showcases my acquired knowledge of the following:
 - Git workflow commands
 - Commits and Commit Messages
 - Working in the command-line
+- Basic HTML knowledge consisting of:
+	* boilerplate
+	* headings and paragraphs
+	* links and images
+	* ordered and unordered lists
+	* creating tables (additional)
 
 ---
 
