@@ -11,3 +11,29 @@ body {
   font-family: "Playfair Display";
   background: #776483;
 }
+
+/* Header */
+.header {
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+  border: 1px solid #292643;
+  background: linear-gradient(90deg, #e99e75, #bbaab8);
+  border-radius: 3rem;
+}
+
+/* Header Title */
+.header h1 {
+  font-size: 50px;
+  font-weight: 900;
+  color: #292643;
+  font-style: italic;
+}
+
+/* Header paragraph */
+.header p {
+  font-size: 18px;
+  font-weight: 400;
+  color: #292643;
+  margin: 20px 10px;
+}
