@@ -60,3 +60,36 @@ body {
   object-fit: cover;
   object-position: center;
 }
+
+.blog-text {
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+}
+
+.blog-text .blog-title {
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: #44426e;
+  text-decoration: none;
+}
+
+.blog-text p {
+  color: #292643;
+  font-size: 1rem;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin: 20px 0px;
+}
+
+.blog-text a {
+  color: #44426e;
+}
+
+.blog-text a:hover {
+  color: #776483;
+  transition: all ease 0.3s;
+}
