@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+p {
+  text-decoration: none;
+}
+
+body {
+  padding: 10px;
+  font-family: "Playfair Display";
+  background: #776483;
+}

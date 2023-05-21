@@ -13,6 +13,7 @@ body {
   padding: 20px;
   margin: 10px;
   text-align: center;
+  border: 1px solid #292643;
   background: linear-gradient(90deg, #e99e75, #bbaab8);
   border-radius: 3rem;
 }
@@ -78,6 +79,7 @@ body {
   padding: 20px;
   margin: 20px 10px;
   color: #292643;
+  border: 1px solid #292643;
   border-radius: 3rem;
 }
 
@@ -92,6 +94,7 @@ body {
 .footer {
   padding: 20px;
   text-align: center;
+  border: 1px solid #292643;
   background: linear-gradient(90deg, #e99e75, #bbaab8);
   margin: 10px;
   color: #292643;
