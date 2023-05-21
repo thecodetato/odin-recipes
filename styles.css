@@ -37,3 +37,26 @@ body {
   color: #292643;
   margin: 20px 10px;
 }
+
+.blog-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px 0px;
+  flex-wrap: wrap;
+}
+
+.blog-box {
+  width: 350px;
+  border: 1px solid #292643;
+  border-radius: 3rem;
+  margin: 25px 55px;
+  background: linear-gradient(90deg, #e99e75, #bbaab8);
+}
+
+.blog-img img {
+  width: 100%;
+  border-radius: 3rem;
+  object-fit: cover;
+  object-position: center;
+}
