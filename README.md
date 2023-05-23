@@ -18,6 +18,10 @@ This project showcases my acquired knowledge of the following:
 	* links and images
 	* ordered and unordered lists
 	* creating tables (additional)
+- Basic CSS knowledge consisting of:
+	* linking stylesheets
+	* styling html elements
+	* TBA...
 
 ---
 
